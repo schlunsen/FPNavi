@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\bin\Debug\LogicManagerLib.dll
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\bin\Debug\LogicManagerLib.pdb
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\bin\Debug\FPNavi.dll
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\bin\Debug\UnityEngine.dll
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\bin\Debug\FPNavi.pdb
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\obj\Debug\LogicManagerLib.dll
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\obj\Debug\LogicManagerLib.pdb
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\bin\Debug\VLabLibs.dll
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\bin\Debug\VLabLibs.pdb
+C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\LogicManagerLib\bin\Debug\UnityEditor.dll

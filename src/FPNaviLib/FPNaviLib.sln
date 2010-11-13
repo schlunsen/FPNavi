@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPNaviLib", "FPNaviLib\FPNaviLib.csproj", "{A9AC8C6D-DB78-4B1B-AEE4-5CC9E92A7441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicManagerLib", "LogicManagerLib\LogicManagerLib.csproj", "{23FE45CE-F1B8-47A3-BAF4-9DB8EA1A2133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLabLibs", "VLabLibs\VLabLibs.csproj", "{57B8E91C-8F14-4EDD-8ADE-A426532DC4D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9AC8C6D-DB78-4B1B-AEE4-5CC9E92A7441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AC8C6D-DB78-4B1B-AEE4-5CC9E92A7441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AC8C6D-DB78-4B1B-AEE4-5CC9E92A7441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AC8C6D-DB78-4B1B-AEE4-5CC9E92A7441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23FE45CE-F1B8-47A3-BAF4-9DB8EA1A2133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FE45CE-F1B8-47A3-BAF4-9DB8EA1A2133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FE45CE-F1B8-47A3-BAF4-9DB8EA1A2133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FE45CE-F1B8-47A3-BAF4-9DB8EA1A2133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B8E91C-8F14-4EDD-8ADE-A426532DC4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B8E91C-8F14-4EDD-8ADE-A426532DC4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B8E91C-8F14-4EDD-8ADE-A426532DC4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B8E91C-8F14-4EDD-8ADE-A426532DC4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

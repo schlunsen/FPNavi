@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{A710AAD8-5DC3-B8D4-6958-CDA5319564BC}") = "FPNavi-UnityTest", "FPNavi-UnityTest.csproj", "{40E986EE-FD94-726C-83AF-897A025ADCF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E986EE-FD94-726C-83AF-897A025ADCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E986EE-FD94-726C-83AF-897A025ADCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E986EE-FD94-726C-83AF-897A025ADCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E986EE-FD94-726C-83AF-897A025ADCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
