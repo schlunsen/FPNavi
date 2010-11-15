@@ -15,3 +15,19 @@ C:\Users\Public\Documents\Unity Projects\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\
 C:\Users\Public\Documents\Unity Projects\FPNavi\FPNavi-UnityTest\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Public\Documents\Unity Projects\FPNavi\FPNavi-UnityTest\obj\Debug\Irrelvant.dll
 C:\Users\Public\Documents\Unity Projects\FPNavi\FPNavi-UnityTest\obj\Debug\Irrelvant.pdb
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\Irrelvant.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\Irrelvant.pdb
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\UnityEditor.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\UnityEngine.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\UnityScript.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\nunit.framework.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\Mono.Security.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\obj\Debug\Irrelvant.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\FPNavi-UnityTest\obj\Debug\Irrelvant.pdb

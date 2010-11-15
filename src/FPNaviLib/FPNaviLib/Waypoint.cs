@@ -6,10 +6,11 @@ using UnityEngine;
 
 namespace FPNavi
 {
-    public class Waypoint : MonoBehaviour{
+    public class Waypoint : MonoBehaviour {
     
-        public GameObject lookTarget;
-        public List<Direction> directions;
+        public Transform lookTarget;
+        public Direction[] directions;        
+
         void Start()
         {
             

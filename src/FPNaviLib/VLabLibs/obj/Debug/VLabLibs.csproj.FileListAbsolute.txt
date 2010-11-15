@@ -5,3 +5,10 @@ C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\VLabLibs\bin\Debug
 C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\VLabLibs\bin\Debug\UnityEngine.dll
 C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\VLabLibs\obj\Debug\VLabLibs.dll
 C:\Users\Public\Documents\Unity Projects\FPNavi\src\FPNaviLib\VLabLibs\obj\Debug\VLabLibs.pdb
+C:\Users\ramo\Desktop\V3S\FPNavi\src\FPNaviLib\VLabLibs\bin\Debug\VLabLibs.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\src\FPNaviLib\VLabLibs\bin\Debug\VLabLibs.pdb
+C:\Users\ramo\Desktop\V3S\FPNavi\src\FPNaviLib\VLabLibs\bin\Debug\UnityEditor.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\src\FPNaviLib\VLabLibs\bin\Debug\UnityEngine.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\src\FPNaviLib\VLabLibs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ramo\Desktop\V3S\FPNavi\src\FPNaviLib\VLabLibs\obj\Debug\VLabLibs.dll
+C:\Users\ramo\Desktop\V3S\FPNavi\src\FPNaviLib\VLabLibs\obj\Debug\VLabLibs.pdb

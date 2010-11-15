@@ -48,7 +48,17 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Editor\DirectionEditor.cs" />
+     <Compile Include="Assets\Editor\InterpolationEditor.cs" />
+     <Compile Include="Assets\Editor\WaypointEditor.cs" />
      <Compile Include="Assets\Library\iTween.cs" />
+     <Compile Include="Assets\NaviLib\Direction.cs" />
+     <Compile Include="Assets\NaviLib\FPNaviController.cs" />
+     <Compile Include="Assets\NaviLib\FPNaviManager.cs" />
+     <Compile Include="Assets\NaviLib\IInterpolation.cs" />
+     <Compile Include="Assets\NaviLib\MoveInterpolation.cs" />
+     <Compile Include="Assets\NaviLib\PathInterpolation.cs" />
+     <Compile Include="Assets\NaviLib\Waypoint.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <None Include="Assets\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js" />
      <None Include="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" />
@@ -57,12 +67,6 @@
      <None Include="Assets\Standard Assets\Scripts\General Scripts\DragRigidbody.js" />
      <Compile Include="Assets\Standard Assets\Scripts\Utility Scripts\CombineChildren.cs" />
      <Compile Include="Assets\Standard Assets\Scripts\Utility Scripts\MeshCombineUtility.cs" />
- <Reference Include="FPNavi">
- <HintPath>Assets\Plugins\FPNavi.dll</HintPath>
- </Reference>
- <Reference Include="LogicManagerLib">
- <HintPath>Assets\Plugins\LogicManagerLib.dll</HintPath>
- </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
